@@ -1,4 +1,4 @@
-# My Website Design Guide
+# My Website Style Guide
 
 ## General Information
 This is a simple webpage for a CodeCademy project "Build A Webside Design System.
