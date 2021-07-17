@@ -56,3 +56,43 @@ p {
 .great-violet {
     background-color: rgb(184, 110, 184);
 }
+
+.font-container {
+    width: 100%;
+}
+
+.font-panel {
+    width: 33%;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.font-label {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.playfair-display {
+    font-family: 'Playfair Display', serif;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
