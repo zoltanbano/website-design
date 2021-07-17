@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 10%;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.container {
+    border: 3px solid #919191;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 10px auto;
+    min-height: 100px;
+}
+
+.fancy-red {
+    background-color: rgb(161, 48, 48);
+    color:white;
+}
+
+.stylish-orange {
+    background-color: rgb(223, 169, 69);
+}
+
+.premium-yellow {
+    background-color: rgb(236, 233, 42);
+}
+
+.awesome-green {
+    background-color: rgb(56, 212, 56);
+}
+
+.super-blue {
+    background-color: rgb(21, 21, 112);
+    color:white;
+}
+
+.great-violet {
+    background-color: rgb(184, 110, 184);
+}
