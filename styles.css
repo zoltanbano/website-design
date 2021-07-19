@@ -32,6 +32,7 @@ li {
 .color-panel {
     display: inline-block;
     width: 33%;
+    min-width: 20em;
     text-align: center;
     margin: 10px auto;
     min-height: 100px;
@@ -69,6 +70,7 @@ li {
 
 .font-panel {
     width: 33%;
+    min-width: 20em;
     display: inline-block;
     margin: 10px auto;
 }
