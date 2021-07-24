@@ -26,16 +26,14 @@ li {
 }
 
 .color-container {
-    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .color-panel {
-    display: inline-block;
-    width: 33%;
-    min-width: 20em;
+    flex: 1 1 20em;
     text-align: center;
-    margin: 10px auto;
-    min-height: 100px;
+    margin: 0.5em;
 }
 
 .fancy-red {
@@ -65,14 +63,13 @@ li {
 }
 
 .font-container {
-    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .font-panel {
-    width: 33%;
-    min-width: 20em;
-    display: inline-block;
-    margin: 10px auto;
+    flex: 1 1 20em;
+    margin: 0.5em;
 }
 
 .font-label {
